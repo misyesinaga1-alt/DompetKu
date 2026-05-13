@@ -16,7 +16,7 @@ Aplikasi pencatat keuangan sederhana berbasis React Native (Expo).
 ## 📱 Screenshot Aplikasi
 
 ### Tampilan Utama
-![Home](./assets/DompetPremium.jpeg)
+![Home](./DompetPremium.jpeg)
 
 ### Tampilan Transaksi
-![Transaction](./assets/DompetPremium2.jpeg)
+![Transaction](./DompetPremium2.jpeg)
